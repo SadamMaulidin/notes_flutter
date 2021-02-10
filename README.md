@@ -1,6 +1,8 @@
 # notes_flutter
 
-A new Flutter application.
+Aplikasi untuk memudahkan untuk catat mencatat
+
+![screenshot](notes.jpg)
 
 ## Getting Started
 
